@@ -1,0 +1,3 @@
+ID, FirstName, MiddleName, Surname, Initials, TeacherTypeID, SubjectTaughtIDs
+1, Jane, , Doe, JD, 1, "1, 2, 3"
+2, Simple, E, Simon, SES, 2, 1, 2

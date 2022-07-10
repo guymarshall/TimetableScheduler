@@ -1,0 +1,20 @@
+Sun 05 Jun 2022 at 09:45:34 BST INFO com.gmail.guymarshall9.timetablescheduler.StartParameters [main] 
+Usage
+-----
+  TimetableScheduler dataSubfolderName [data subfolder name]
+
+[data subfolder name] is the name of the subfolder where the data CSV files are to be present for reading.
+
+Sun 05 Jun 2022 at 09:45:34 BST INFO com.gmail.guymarshall9.timetablescheduler.StartParameters [main] About to parse the command line arguments "[dataSubfolderName, data]".
+Sun 05 Jun 2022 at 09:45:34 BST INFO com.gmail.guymarshall9.timetablescheduler.TimetableScheduler [main] Parameter values:
+  dataSubfolderName = "data".
+
+To pause execution enter "P".
+From a paused execution, enter "S" to stop execution and anything else to resume execution.
+Sun 05 Jun 2022 at 09:45:34 BST INFO com.gmail.guymarshall9.timetablescheduler.Supervisor [main] The current processing state is "CONTINUE".
+Sun 05 Jun 2022 at 09:45:34 BST INFO com.gmail.guymarshall9.timetablescheduler.Worker [Thread-0] Started run number 1.
+Sun 05 Jun 2022 at 09:46:00 BST INFO com.gmail.guymarshall9.timetablescheduler.Worker [Thread-0] Completed run number 1.
+Sun 05 Jun 2022 at 09:46:00 BST INFO com.gmail.guymarshall9.timetablescheduler.Worker [Thread-0] Started run number 2.
+Sun 05 Jun 2022 at 09:46:05 BST INFO com.gmail.guymarshall9.timetablescheduler.Worker [Thread-0] Completed run number 2.
+Sun 05 Jun 2022 at 09:46:05 BST INFO com.gmail.guymarshall9.timetablescheduler.Worker [Thread-0] All processing has been completed.
+Sun 05 Jun 2022 at 09:46:06 BST INFO com.gmail.guymarshall9.timetablescheduler.TimetableScheduler [main] Processing completed. The latest run number executed was 2.
